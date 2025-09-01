@@ -1,11 +1,29 @@
 I have recently updated this repository to having a program that automatically does the cracking for YOU.
 
 ::::::::::::::::::::::::::::::::::::STEPS::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
 1; Download IDM from their official site.  HERE'S the link:  [LINK TO IDM SITE](https://www.internetdownloadmanager.com/)
+
+
+
+
 2: Install the Official Internet Download Manager and  ignore any paywal that it may bring.
+
+
+
 3: Download this (IDM_6.4x_Crack_v20.4.exe) file from the repository as a zip obviously. 
+
+
 4: Before extracting,,LISTEN TO THIS CAREFULLY,,, **TURN OFF WINDOWS SECURITY**, or else the file will be detected as a false positive and will be deleted.
+
+
+
 5: Open the exe program and select IDM .......FROM HERE EVERYTHING ELSE is smooth sailing 
+
+
+
 DOn't forget to turn on windows security after all this ........HAPPY DOWNLOADING :)  
 
 
